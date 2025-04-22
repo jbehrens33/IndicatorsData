@@ -6,11 +6,11 @@ We intend to work with the editors, prior to publication, to ensure the data is 
 
 # Files Available
 
-Table S4: Synoptic Ellerbe Creek Tributary Correlates Between Indicators and Water Quality Measures																	
+Table S9: Synoptic Ellerbe Creek Tributary Correlates Between Indicators and Water Quality Measures																	
 
-Table S5: Synoptic Ellerbe Creek Tributary Correlates  Between Per- and Polyfluoroalkyl Substances (PFAS) and Other Measures																										
+Table S10: Synoptic Ellerbe Creek Tributary Correlates  Between Per- and Polyfluoroalkyl Substances (PFAS) and Other Measures																										
 
-Table S6: Full Chemical Dataset									
+Table 11: Full Chemical Dataset									
 
 # Point of Contact
 Jonathan Behrens (contact: jbehrens33@gmail.com)
